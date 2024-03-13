@@ -14,3 +14,7 @@ En esta clase he aprendido hacerca de el gamification model canvas que nos sirve
 
 ## Proyecto de App Prof: Sebastian Mejia
 En esta clase nos ha enseñado a usar una herramienta llamada Latex y Dia para la creacion de archivos como los Casos de uso, y MYSQL para crear los Esquemas de Entidad Relación.
+
+---
+
+### Creando la versión 1.0.0 de este repositorio.
