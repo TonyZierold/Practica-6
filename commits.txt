@@ -1,0 +1,61 @@
+commit 5f329eb11267c2db50cc5003d25a8c1771461f0d
+Merge: 3288078 3f3a627
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 01:10:09 2024 -0600
+
+    Merge branch 'Proyecto_de_app-rama'
+
+commit 3288078004ae678dae5fa84e88ff8c5187f64f17
+Merge: 7cfe614 e4cadf4
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 01:07:12 2024 -0600
+
+    Merge branch 'Diseño_de_Videojuegos-rama'
+
+commit 3f3a6277cf691ad239e17dca4e1c9c518b106484
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:53:52 2024 -0600
+
+    Proyecto de App
+
+commit e4cadf4be71cc692ab034643c497d1ccef2b9a19
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:48:19 2024 -0600
+
+    Diseño de Videojuegos(Correción)
+
+commit 7cfe61405a7efedc1a783469545f940acb5085d6
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:45:35 2024 -0600
+
+    Principios de la Composicion(correción)
+
+commit 35bcc7d418527a6378a86700a87a62b0fd02bd91
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:34:25 2024 -0600
+
+    Diseño de Videojuegos
+
+commit 4048ea2537f75fd9b02ab6a78cdec4e312ef657e
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:32:36 2024 -0600
+
+    Principios de la composición
+
+commit 11a358cfb2d39a2901c23223f40c0de5f74f7660
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:16:07 2024 -0600
+
+    Lenguajes Interpretados
+
+commit 4d390fc061614c32233ba190d0428e345c5c0d58
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Tue Mar 12 00:01:44 2024 -0600
+
+    Sistemas_Operativos
+
+commit cf51fd03f2343b77b3637dbad2d3567ecd7bb8eb
+Author: Antonio Leos <aleos100900@gmail.com>
+Date:   Mon Mar 11 23:39:05 2024 -0600
+
+    primer commit
