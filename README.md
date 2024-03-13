@@ -13,4 +13,4 @@ He aprendido que es el diseño grafico, para que sirve y como ocupar photoshop d
 En esta clase he aprendido hacerca de el gamification model canvas que nos sirve para poder identificar las mecanicas de cada juego que existe y que hay.
 
 ## Proyecto de App Prof: Sebastian Mejia
-En esta clase nos ha enseñado a usar una erramienta llamada Latex y Dia para la creacion de archivos como los Casos de uso, y MYSQL para crear los Esquemas de Entidad Relación.
+En esta clase nos ha enseñado a usar una herramienta llamada Latex y Dia para la creacion de archivos como los Casos de uso, y MYSQL para crear los Esquemas de Entidad Relación.
